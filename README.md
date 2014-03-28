@@ -1,2 +1,4 @@
-marucc
+maru.cc
 ======
+
+http://maru.cc/
