@@ -5,7 +5,7 @@ title: Home
 
 # Home
 
-このサイトは、maru_ccが勉強したり思ったりしたことを書いている場所へたどり着くための場所
+このサイトは、maru_cc が勉強したり思ったりしたことを書いている場所へたどり着くための場所
 
 ## Links
 
@@ -20,5 +20,5 @@ title: Home
 - [Twitter @maru_cc](http://twitter.com/maru_cc)
     - 日々のつぶやき
 - [Flickr](http://www.flickr.com/photos/maru_cc)
-    - 写真など
+    - 写真など、最近はFacebookにあげちゃうことが多い
 
