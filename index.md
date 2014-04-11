@@ -18,8 +18,8 @@ title: Home
 
 ### レース リザルト＆予定
 
-- [ロードレース](/sports/results_bike.html)
-- [マラソン](/sports/results_run.html)
+- [ロードレース](/sports/results_bike)
+- [マラソン](/sports/results_run)
 
 ## お仕事・技術系
 
