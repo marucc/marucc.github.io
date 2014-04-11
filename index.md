@@ -7,7 +7,7 @@ title: Home
 
 このサイトは、maru_cc が勉強したり思ったりしたことを書いている場所へたどり着くための場所
 
-## Links
+## 自転車系
 
 - [blog.maru.cc](http://blog.maru.cc/)
     - こちらは自転車やマラソンなど技術系以外を書く場所　いわゆるblog
@@ -15,8 +15,16 @@ title: Home
     - 自転車の練習ログやコメント、写真をあげている場所
 - [Strava@maru_cc](http://www.strava.com/athletes/maru_cc)
     - 自転車の練習ログをあげている場所
+
+## 技術系
+
 - [maru.cc@はてな](http://marucc.hatenablog.com/)
     - 技術系のことを書いている場所
+- [maru_cc@Qiita](http://qiita.com/maru_cc)
+    - 技術系の調べ物した結果とか書いている場所
+
+## その他
+
 - [Twitter @maru_cc](http://twitter.com/maru_cc)
     - 日々のつぶやき
 - [Flickr](http://www.flickr.com/photos/maru_cc)
