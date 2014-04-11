@@ -3,9 +3,9 @@ layout: default
 title: about
 ---
 
-[Home](/) &gt; about
+[Home](/) &gt; About
 
-# about
+# About
 
 ## Name
 
