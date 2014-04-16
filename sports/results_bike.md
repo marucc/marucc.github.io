@@ -1,6 +1,7 @@
 ---
 layout: default
 title: ロードレース リザルト＆予定
+markdown: kramdown
 ---
 
 [Home](/) &gt; ロードレース リザルト＆予定
