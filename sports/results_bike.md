@@ -23,6 +23,7 @@ markdown: kramdown
 - 500TT 40.568
 - 1000TT 1:20.794
 - チームスプリント 59.533
+	- https://www.youtube.com/watch?v=Yvl-vn8PvmI
 - 10kmポイントレース 5着
 
 ### 2014.08.31 第6回 JBCF みやだクリテリウム
