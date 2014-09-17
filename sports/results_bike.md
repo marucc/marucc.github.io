@@ -23,8 +23,8 @@ markdown: kramdown
 - 500TT 40.568
 - 1000TT 1:20.794
 - チームスプリント 59.533
-	- https://www.youtube.com/watch?v=Yvl-vn8PvmI
-- 10kmポイントレース 5着
+	- [https://www.youtube.com/watch?v=Yvl-vn8PvmI](https://www.youtube.com/watch?v=Yvl-vn8PvmI)
+- 10kmポイントレース 5位
 
 ### 2014.08.31 第6回 JBCF みやだクリテリウム
 - E2予選1組（14位、40人完走、43人出走、25位まで決勝進出）
