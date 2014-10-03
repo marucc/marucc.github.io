@@ -13,10 +13,11 @@ markdown: kramdown
 
 ### 2014.11.03 2014 challenge The Izu Velodrome
 
-### 2014.10.12 第７回 JBCF 輪島ロードレース (予定)
+### 2014.10.12 第７回 JBCF 輪島ロードレース
+ - E2
 
 ### 2014.10.05 CSCトラック大会秋
- - 200mFTT
+ - F200mTT
  - 1kmTT
  - スクラッチ
 
