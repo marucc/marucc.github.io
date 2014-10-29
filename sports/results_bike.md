@@ -15,6 +15,10 @@ markdown: kramdown
 - E2
 
 ### 2014.11.03 2014 challenge The Izu Velodrome
+ - FTT200m
+ - 1000TT
+ - スクラッチ
+ - チームスプリント
 
 ### 2014.10.12 第7回 JBCF 輪島ロードレース
  - E2（32位、45人完走、62人出走）
