@@ -24,7 +24,7 @@ Tomoyuki Maruta
 
 Tokyo,Japan
 
-代々木で働いています。
+西麻布で働いています。
 
 ## Work
 
