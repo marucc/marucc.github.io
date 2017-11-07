@@ -28,9 +28,14 @@ Tokyo,Japan
 
 ## Work
 
-以前は、php使って公式サイトとか勝手サイトとか携帯関連が多めなWebシステムの開発してました。
+React.jsつかってスポーツ系のWebアプリ作っています。
 
-Python,CoffeeScriptとか使ってWebサービス開発しています。
+Front: React.js, Redux, redux-saga, PostCSS, LESS
+Server: python Django, Django REST framework, AWS
+
+FrontからWebAPI, AWS管理までいろいろ。
+
+以前は、php使って公式サイトとか勝手サイトとか携帯関連が多めなWebシステムの開発してました。
 
 ## Contact Me
 
