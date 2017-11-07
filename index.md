@@ -11,8 +11,6 @@ title: Home
 
 - [blog.maru.cc](http://blog.maru.cc/)
     - こちらは自転車やマラソンなど技術系以外を書く場所　いわゆるblog
-- [Lemonade@maru_cc](http://lemona.de/notebook/2/)
-    - 自転車の練習ログやコメント、写真をあげている場所
 - [Strava@maru_cc](http://www.strava.com/athletes/maru_cc)
     - 自転車の練習ログをあげている場所
 
