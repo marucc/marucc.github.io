@@ -31,9 +31,14 @@ Tokyo,Japan
 React.jsつかってスポーツ系のWebアプリ作っています。
 
 Front: React.js, Redux, redux-saga, PostCSS, LESS
+
 Server: python Django, Django REST framework, AWS
 
 FrontからWebAPI, AWS管理までいろいろ。
+
+
+----------
+
 
 ## Contact Me
 
