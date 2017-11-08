@@ -35,8 +35,6 @@ Server: python Django, Django REST framework, AWS
 
 FrontからWebAPI, AWS管理までいろいろ。
 
-以前は、php使って公式サイトとか勝手サイトとか携帯関連が多めなWebシステムの開発してました。
-
 ## Contact Me
 
 tomoyuki \[dot\] maruta \[at\] gmail \[dot\] com
