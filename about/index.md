@@ -28,7 +28,7 @@ Tokyo,Japan
 
 ## Work
 
-React.jsつかってスポーツ系のWebアプリ作っています。
+スポーツ系サービスのServerSideまわり作っています。
 
 Front: React.js, Redux, redux-saga, PostCSS, LESS
 
