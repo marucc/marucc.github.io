@@ -28,7 +28,7 @@ Tokyo,Japan
 
 ## Work
 
-スポーツ系サービスのWebFront、Server BackEnd作っています。
+スポーツ系サービスのWebFront、Server Backend作っています。
 
 Front: React.js, Redux, redux-saga, PostCSS, LESS
 
