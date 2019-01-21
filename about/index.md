@@ -24,7 +24,7 @@ Tomoyuki Maruta
 
 Tokyo,Japan
 
-西麻布で働いています。
+五反田で働いています。
 
 ## Work
 
