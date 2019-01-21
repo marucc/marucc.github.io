@@ -34,8 +34,6 @@ title: Home
     - 写真など
 - [Flickr](http://www.flickr.com/photos/maru_cc)
     - 写真など、最近はFacebookにあげちゃうことが多い
-
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTgzMjk4NzldfQ==
+eyJoaXN0b3J5IjpbMTMyNDM4ODIzNywtMTE1ODMyOTg3OV19
 -->
