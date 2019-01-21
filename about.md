@@ -20,7 +20,7 @@ title: about</h2>
 <p>前はひらがなで「まる」と名乗っていましたが、かぶりまくるので、Twitter始めてからは「maru_cc」で通しています。</p>
 <h2 id="address">Address</h2>
 <p>Tokyo,Japan</p>
-<p>西麻布で働いています。</p>
+<p>五反田で働いています。</p>
 <h2 id="work">Work</h2>
 <p>スポーツ系サービスのWebFront、Server Backend作っています。</p>
 <p>Front: React.js, Redux, redux-saga, PostCSS, LESS</p>
