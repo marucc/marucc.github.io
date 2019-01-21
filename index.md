@@ -9,8 +9,8 @@ title: Home
 
 ## 自転車・ランニング系
 
-- [blog.maru.cc](http://blog.maru.cc/)
-    - こちらは自転車やマラソンなど技術系以外を書く場所　いわゆるblog
+- [maru_cc's Cycling Journeys](https://marucc.goat.me/)
+	- 旅ライド 
 - [Strava@maru_cc](http://www.strava.com/athletes/maru_cc)
     - 自転車の練習ログをあげている場所
 
@@ -32,5 +32,16 @@ title: Home
     - 日々のつぶやき
 - [Instagram](http://instagram.com/maru_cc)
     - 写真など
+- [maru_cc's Note](https://note.mu/maru_cc)
+	- Blog未満の日記的な自分ノート
+ 
+
+## Archives
+
+あまり更新していない過去のもの。
+
+- [blog.maru.cc](http://blog.maru.cc/)
+    - こちらは自転車やマラソンなど技術系以外を書く場所　いわゆるblog
 - [Flickr](http://www.flickr.com/photos/maru_cc)
     - 写真など、最近はFacebookにあげちゃうことが多い
+
