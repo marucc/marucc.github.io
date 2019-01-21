@@ -28,6 +28,8 @@ title: Home
 
 ## その他
 
+- [Fadebook](https://www.facebook.com/tomoyuki.maruta)
+	- いろいろ（実際に会ったことのある人からのみ友達申請受け付けています）
 - [Twitter @maru_cc](http://twitter.com/maru_cc)
     - 日々のつぶやき
 - [Instagram](http://instagram.com/maru_cc)
