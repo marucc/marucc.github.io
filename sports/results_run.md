@@ -4,8 +4,9 @@
 ---
 
 <hr>
-<h2 id="layout-defaulttitle-マラソン-リザルト＆予定">layout: default<br>
-title: マラソン リザルト＆予定</h2>
+<h2 id="layout-defaulttitle-マラソン-リザルト＆予定markdown-kramdown">layout: default<br>
+title: マラソン リザルト＆予定<br>
+markdown: kramdown</h2>
 <p><a href="/">Home</a> &gt; マラソン リザルト＆予定</p>
 <h1 id="マラソン-リザルト＆予定">マラソン リザルト＆予定</h1>
 <h2 id="section">2019</h2>
