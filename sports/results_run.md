@@ -1,6 +1,6 @@
 ---
 layout: default
-title: マラソン リザルト＆予定
+title: マラソン 結果＆予定
 markdown: kramdown
 ---
 
