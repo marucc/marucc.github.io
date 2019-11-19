@@ -14,9 +14,9 @@ title: Home
 - [Strava@maru_cc](http://www.strava.com/athletes/maru_cc)
     - 自転車の練習ログをあげている場所
 
-### レース リザルト＆予定
+### レース/イベント 結果＆予定
 
-- [ロードレース](/sports/results_bike)
+- [自転車](/sports/results_bike)
 - [マラソン](/sports/results_run)
 
 ## お仕事・技術系
