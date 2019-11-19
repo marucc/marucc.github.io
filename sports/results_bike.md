@@ -1,17 +1,21 @@
 ---
 layout: default
-title: ロードレース リザルト＆予定
+title: 自転車　ロードレース/イベント　結果＆予定
 markdown: kramdown
 ---
 
-[Home](/) &gt; ロードレース リザルト＆予定
+[Home](/) &gt; 自転車　ロードレース/イベント　結果＆予定
 
-# ロードレース リザルト＆予定
+# 自転車　ロードレース/イベント　結果＆予定
 
 ----------
 ※「？」は未定
 
 ## 2019
+
+### 2019.10.12-21 The Japanese Odyssey 2019
+* DNF (Day9 1800km/2200km)
+  * https://note.mu/maru_cc/n/ndbe7ff567938
 
 ### 2019.06.22-23 第50回 JBCF 東日本トラック
 * 1kmTT 1:15.955
