@@ -16,7 +16,7 @@ title: Home
 
 ### レース/イベント 結果＆予定
 
-- [自転車](/sports/results_bike)
+- [自転車 レース/イベント](/sports/results_bike)
 - [マラソン](/sports/results_run)
 
 ## お仕事・技術系
